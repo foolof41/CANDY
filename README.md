@@ -1,1 +1,1 @@
-learn demo of candy extension
+just learn
