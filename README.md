@@ -1,0 +1,1 @@
+learn demo of candy extension
